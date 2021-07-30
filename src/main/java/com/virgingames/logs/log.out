@@ -1,0 +1,22 @@
+2021-07-25 18:07:650 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-25 18:07:338 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-25 18:07:993 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-25 18:07:996 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-25 18:07:473 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-25 18:07:338 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-25 21:07:514 INFO  BasePage :43 - Wrong browser name
+2021-07-28 19:07:279 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-29 13:07:651 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-29 13:07:285 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-29 19:07:530 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-29 19:07:597 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-29 20:07:209 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-29 20:07:111 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-29 21:07:336 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-30 14:07:732 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-30 14:07:538 INFO  HomePage :22 - Clicking on login link : Proxy element for: DefaultElementLocator 'By.linkText: Login'
+2021-07-30 14:07:583 INFO  HomePage :29 - Getting text from : Proxy element for: DefaultElementLocator 'By.xpath: //title[contains(text(),'Virgin Games')]'
+2021-07-30 14:07:763 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-30 14:07:11 INFO  HomePage :22 - Clicking on login link : Proxy element for: DefaultElementLocator 'By.linkText: Login'
+2021-07-30 14:07:28 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-30 14:07:36 INFO  HomePage :22 - Clicking on login link : Proxy element for: DefaultElementLocator 'By.linkText: Login'
